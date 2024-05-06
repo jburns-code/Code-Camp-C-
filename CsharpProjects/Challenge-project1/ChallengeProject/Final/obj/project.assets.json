@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\CodeCamp\\C#\\CCert\\Code-Camp-CS\\CsharpProjects\\Challenge-Project1\\ChallengeProject\\Starter\\Starter.csproj",
-      "projectName": "Starter",
-      "projectPath": "C:\\Code\\CodeCamp\\C#\\CCert\\Code-Camp-CS\\CsharpProjects\\Challenge-Project1\\ChallengeProject\\Starter\\Starter.csproj",
+      "projectUniqueName": "C:\\Code\\CodeCamp\\C#\\CCert\\Code-Camp-CS\\CsharpProjects\\Challenge-project1\\ChallengeProject\\Final\\Final.csproj",
+      "projectName": "Final",
+      "projectPath": "C:\\Code\\CodeCamp\\C#\\CCert\\Code-Camp-CS\\CsharpProjects\\Challenge-project1\\ChallengeProject\\Final\\Final.csproj",
       "packagesPath": "C:\\Users\\jackm\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\CodeCamp\\C#\\CCert\\Code-Camp-CS\\CsharpProjects\\Challenge-Project1\\ChallengeProject\\Starter\\obj\\",
+      "outputPath": "C:\\Code\\CodeCamp\\C#\\CCert\\Code-Camp-CS\\CsharpProjects\\Challenge-project1\\ChallengeProject\\Final\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
