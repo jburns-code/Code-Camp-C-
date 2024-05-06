@@ -1,0 +1,15 @@
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Challenge-project1\ChallengeProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Challenge-project1\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Challenge-project1\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Challenge-project1\ChallengeProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Challenge-project1\ChallengeProject\Starter\obj\Debug\net8.0\Starter.sourcelink.json
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Challenge-project1\ChallengeProject\Starter\bin\Debug\net8.0\Starter.exe
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Challenge-project1\ChallengeProject\Starter\bin\Debug\net8.0\Starter.deps.json
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Challenge-project1\ChallengeProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Challenge-project1\ChallengeProject\Starter\bin\Debug\net8.0\Starter.dll
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Challenge-project1\ChallengeProject\Starter\bin\Debug\net8.0\Starter.pdb
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Challenge-project1\ChallengeProject\Starter\obj\Debug\net8.0\Starter.dll
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Challenge-project1\ChallengeProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Challenge-project1\ChallengeProject\Starter\obj\Debug\net8.0\Starter.pdb
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Challenge-project1\ChallengeProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Challenge-project1\ChallengeProject\Starter\obj\Debug\net8.0\ref\Starter.dll

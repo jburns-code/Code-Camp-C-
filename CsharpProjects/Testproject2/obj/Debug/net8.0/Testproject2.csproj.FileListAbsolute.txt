@@ -1,0 +1,15 @@
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Testproject2\obj\Debug\net8.0\Testproject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Testproject2\obj\Debug\net8.0\Testproject2.AssemblyInfoInputs.cache
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Testproject2\obj\Debug\net8.0\Testproject2.AssemblyInfo.cs
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Testproject2\obj\Debug\net8.0\Testproject2.csproj.CoreCompileInputs.cache
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Testproject2\obj\Debug\net8.0\Testproject2.sourcelink.json
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Testproject2\bin\Debug\net8.0\Testproject2.exe
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Testproject2\bin\Debug\net8.0\Testproject2.deps.json
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Testproject2\bin\Debug\net8.0\Testproject2.runtimeconfig.json
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Testproject2\bin\Debug\net8.0\Testproject2.dll
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Testproject2\bin\Debug\net8.0\Testproject2.pdb
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Testproject2\obj\Debug\net8.0\Testproject2.dll
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Testproject2\obj\Debug\net8.0\refint\Testproject2.dll
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Testproject2\obj\Debug\net8.0\Testproject2.pdb
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Testproject2\obj\Debug\net8.0\Testproject2.genruntimeconfig.cache
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\Testproject2\obj\Debug\net8.0\ref\Testproject2.dll

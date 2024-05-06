@@ -1,0 +1,15 @@
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\TestProject4\bin\Debug\net8.0\TestProject4.exe
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\TestProject4\bin\Debug\net8.0\TestProject4.deps.json
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\TestProject4\bin\Debug\net8.0\TestProject4.runtimeconfig.json
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\TestProject4\bin\Debug\net8.0\TestProject4.dll
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\TestProject4\bin\Debug\net8.0\TestProject4.pdb
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\TestProject4\obj\Debug\net8.0\TestProject4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\TestProject4\obj\Debug\net8.0\TestProject4.AssemblyInfoInputs.cache
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\TestProject4\obj\Debug\net8.0\TestProject4.AssemblyInfo.cs
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\TestProject4\obj\Debug\net8.0\TestProject4.csproj.CoreCompileInputs.cache
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\TestProject4\obj\Debug\net8.0\TestProject4.sourcelink.json
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\TestProject4\obj\Debug\net8.0\TestProject4.dll
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\TestProject4\obj\Debug\net8.0\refint\TestProject4.dll
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\TestProject4\obj\Debug\net8.0\TestProject4.pdb
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\TestProject4\obj\Debug\net8.0\TestProject4.genruntimeconfig.cache
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\TestProject4\obj\Debug\net8.0\ref\TestProject4.dll

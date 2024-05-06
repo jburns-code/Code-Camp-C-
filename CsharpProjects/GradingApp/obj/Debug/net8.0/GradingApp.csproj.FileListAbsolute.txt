@@ -1,0 +1,5 @@
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\GradingApp\obj\Debug\net8.0\GradingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\GradingApp\obj\Debug\net8.0\GradingApp.AssemblyInfoInputs.cache
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\GradingApp\obj\Debug\net8.0\GradingApp.AssemblyInfo.cs
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\GradingApp\obj\Debug\net8.0\GradingApp.csproj.CoreCompileInputs.cache
+C:\Code\CodeCamp\C#\CCert\CsharpProjects\GradingApp\obj\Debug\net8.0\GradingApp.sourcelink.json
